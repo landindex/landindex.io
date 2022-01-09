@@ -1,2 +1,3 @@
 # landindex.io
-landindex - Metaverse Land Investin
+landindex - [Metaverse Land Investing](https://landindex.io)
+https://landindex.io
